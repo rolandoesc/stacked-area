@@ -24,6 +24,6 @@
     "url": "https://github.com/dboxjs/stacked-area/issues"
   },
   "homepage": "https://github.com/dboxjs/stacked-area#readme",
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
