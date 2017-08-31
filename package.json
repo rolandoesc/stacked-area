@@ -1,0 +1,29 @@
+{
+  "name": "@dboxjs/stacked-area",
+  "version": "0.0.1",
+  "description": "A stacked area layer for dbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboxjs/stacked-area.git"
+  },
+  "keywords": [
+    "d3",
+    "data",
+    "charts",
+    "dbox",
+    "stacked",
+    "area"
+  ],
+  "author": "Jorge Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dboxjs/stacked-area/issues"
+  },
+  "homepage": "https://github.com/dboxjs/stacked-area#readme",
+  "devDependencies": {
+  }
+}
